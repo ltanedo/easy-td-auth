@@ -1,4 +1,4 @@
-# easy-td-authenticator
+# easy-td-auth
 A selenium based authenticator for the TD api using a real brokerage account.  Will handle handle all Oauth logic and dump to td_credentials.json. Make sure selenium is properly configured before use.
 
 # Original Source Code
