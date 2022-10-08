@@ -1,0 +1,4 @@
+# ignore files
+td_credentials.json
+test.py
+__pycache__/
