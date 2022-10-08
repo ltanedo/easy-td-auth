@@ -1,10 +1,12 @@
-# easy-td-auth
+<h1 align="center"> easy-td-auth </h1>
 A selenium based authenticator for the TD api using a real brokerage account.  Will handle handle all Oauth logic and dump to td_credentials.json. Make sure selenium is properly configured before use.
+<br/><br/>
 
 ## Original Source Code
 Big thanks to alexgolec and jgQuantScripts for their hard work.  I combined the original authentication work from both repos.  Cdde is updated to use less packages and work on newer versions of selenium.
 - https://github.com/alexgolec/tda-api
 - https://github.com/jgQuantScripts/TD-Ameritrade-Authentication
+<br/><br/>
 
 ### Windows Setup
 > Make sure "Selenium", "td_auth" and "chromedriver.exe" in driectory
